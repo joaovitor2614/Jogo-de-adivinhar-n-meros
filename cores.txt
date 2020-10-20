@@ -1,0 +1,3 @@
+background-color body = #333232;
+background color container = #0E2431
+border do container cor =  #f5e4c3;
